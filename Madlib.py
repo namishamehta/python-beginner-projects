@@ -1,5 +1,5 @@
 """
-Very Beginner Python Project by Namisha Mehta
+Very Beginner Python Project by Kylie Ying
 Madlibs using string concatenation
 """
 adject = input("Enter an Adjective: ")
