@@ -4,7 +4,7 @@ Created on Fri Aug 27 21:50:19 2021
 
 @author: namis
 """
-
+#In this, the user will guess the number chosen by the computer 
 import random
 def guess(x):
     random_num = random.randint(1,x)
